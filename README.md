@@ -1,4 +1,4 @@
-# Rizzui-starter-template
+# Rizzui Starter Template
 
 A Next.js 13 template for building apps with Rizz UI and Tailwind CSS.
 
