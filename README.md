@@ -20,4 +20,4 @@ npx create-next-app -e https://github.com/rizzui/rizzui
 
 ## License
 
-Licensed under the [MIT license](https://github.com/shadcn/ui/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://choosealicense.com/licenses/mit/).
