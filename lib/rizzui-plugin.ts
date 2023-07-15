@@ -42,7 +42,7 @@ export const rizzuiPlugin = plugin(
         "--green-default": "17 168 73",
         "--green-dark": "17 132 60"
       },
-      "[data-theme='dark']": {
+      ".dark": {
         "--gray-0": "0 0 0",
         "--gray-50": "17 17 17",
         "--gray-100": "34 34 34",
@@ -54,7 +54,7 @@ export const rizzuiPlugin = plugin(
         "--gray-700": "227 227 227",
         "--gray-800": "241 241 241",
         "--gray-900": "250 250 250",
-        "--gray-1000": "255 255 255"
+        "--gray-1000": "255 255 255",
       }
     })
 
